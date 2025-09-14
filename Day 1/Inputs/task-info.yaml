@@ -1,0 +1,11 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: solution.py
+    visible: true
+    learner_created: false
+status: Solved
+record: 3
+post_submission_on_open: true
